@@ -1,0 +1,2 @@
+1. The result are two string concatenations. It is not the number addition.
+2. In the addition, convert num1 and num2 to integer first, then perform the addtion. Change num1 + num2 to parseInt(num1) + parseInt(num2).
